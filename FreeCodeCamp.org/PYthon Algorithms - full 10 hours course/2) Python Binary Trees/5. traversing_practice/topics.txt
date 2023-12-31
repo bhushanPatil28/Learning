@@ -1,0 +1,7 @@
+# binary tree inorder traversal
+# binary tree preorder traversal
+# binary tree postorder traversal 
+
+# maximum-depth-of-binary-tree
+# minimum-depth-of-binary-tree
+# diameter of binary tree
